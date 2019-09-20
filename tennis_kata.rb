@@ -1,4 +1,3 @@
-#My Skype ID: muneeb.panwar@gmail.com
 class Player
   attr_accessor :name, :points
 
