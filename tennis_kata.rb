@@ -23,6 +23,7 @@ class TennisGame
   
   def point_won_by(player)
     player.add_points
+    score
   end
   
   def score
